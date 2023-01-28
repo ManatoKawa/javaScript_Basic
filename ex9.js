@@ -9,4 +9,3 @@ const test2 = function(a,b){
 const test3 = (a,b) =>{
     return a+b;
 }
-        
