@@ -1,0 +1,14 @@
+"abc"
+"abc"+def"
+"abc"+def";
+"abc"+def";
+"abc"+def"
+"abc"+"def"
+"abc"+123
+"abc"[1]
+a=123;
+b="答えは${a}です。";
+b
+b=`答えは${a}です。`;
+b
+"abc"[-1]
