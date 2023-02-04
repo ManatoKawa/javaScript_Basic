@@ -1,4 +1,3 @@
-
 type Animal = {
 	species: string;
 }
